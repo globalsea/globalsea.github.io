@@ -1,16 +1,16 @@
 - title: Submit
   items:
   - title: Call for Papers
-    url  : '/program/call-for-papers'
+    url  : 'program/call-for-papers'
   - title: Call for Trainings
-    url  : '/program/call-for-trainings'
+    url  : 'program/call-for-trainings'
 - title: Sponsor
-  url  : /sponsors/
+  url  : sponsors/
 - title: About
   items:
   - title: Code of Conduct
-    url  : '/about/code-of-conduct'
+    url  : 'about/code-of-conduct'
   - title: [EVENT]
-    url  : /about/
+    url  : about/
   - title: Team
-    url  : /about/team
+    url  : about/team
