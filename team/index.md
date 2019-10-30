@@ -1,4 +1,6 @@
-## Introduction 
+---
+title: Conference Program Team
+---
 
 Global AppSec events offer practitioners worldwide the opportunity to come together to share their passion and knowledge of OWASP, infosec, and appsec.  Each event features presentations from experts in the field, networking events, and opportunities to share experiences amongst the infosec community. 
  
