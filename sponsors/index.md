@@ -18,6 +18,7 @@ If you are interested in becoming a Single or Corporate Event Sponsor, please co
 | AppSec Events | Single event only | Single event only |
 | Expo Space | 3mx4m | 3mx2m |
 | Conference Passes | Four  | Two  | 
+| Expo Only Passes | Two | Two |
 | Logo on Event Website | Yes | Yes |
 | Logo on Event Signage | Yes | Yes |
 | Lead Scanners | One | One |
