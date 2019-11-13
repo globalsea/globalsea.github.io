@@ -37,7 +37,7 @@ If you are interested in becoming a Single or Corporate Event Sponsor, please co
 
 | Level & Benefits | Diamond | Platinum | Gold | Silver |
 | ----- | :-----: | :-----: | :-----: | :-----: |
-| AppSec Events | All Global and Three Regional | All AppSec and Two Regional | Two AppSec and One Regional | One AppSec and One Regional |
+| AppSec Events | All Global AppSec's and Three Regional | All Global AppSec's and Two Regional | Two Global AppSec's and One Regional | One Global AppSec and One Regional |
 | Expo Space | 8'x6'| 8'x6'| 8'x6'| 8'x6'|
 | Conference Passes | Three  | Three  | Three  | Three  | 
 | Logo on Event website | Yes | Yes | Yes | Yes |
