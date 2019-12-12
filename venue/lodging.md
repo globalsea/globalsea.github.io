@@ -2,9 +2,7 @@
 title: Lodging
 ---
 
-
-### Hyatt Regency San Francisco
-Convention Center Dublin<br>
+### Convention Center Dublin
 Spencer Dock<br>
 North Wall Quay<br> 
 Dublin 1 D01 T1W6 <br>
