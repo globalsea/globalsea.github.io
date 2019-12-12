@@ -6,22 +6,22 @@ title: Sponsoring
 Global AppSec Events provide unique opportunities for members, the community, and partners to connect and discover new InfoSec products and solutions. The OWASP Foundation offers several options to potential sponsors:
 
 * Single event sponsorships
-* Packages for multiple events, training, and other benefits
+* Packages for multiple events, training, and other valuable benefits available exclusively to Corporate Sponsors only. 
 
-If you are interested in becoming a Single or Corporate Event Sponsor, please contact 
+If you are interested in becoming a Single Event or Corporate Sponsor, please contact 
 [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com?subject=Sponsorship%20Interest) for more information.
 
 ## Exhibitor Opportunities
 
 | Level & Benefits |  Sapphire | Ruby |
 | ----- | :-----: | :-----: | 
-| AppSec Events | Single event only | Single event only |
+| AppSec Event | Single event only | Single event only |
 | Expo Space | 3mx4m | 3mx2m |
 | Conference Passes | Four  | Two  | 
 | Expo Only Passes | Two | Two |
 | Logo on Event Website | Yes | Yes |
 | Logo on Event Signage | Yes | Yes |
-| Lead Scanners | One | One |
+| Lead Scanner | One | One |
 | Cost | €10,500 | €7,500 |
 
 ## Sponsorship Opportunities
@@ -37,7 +37,7 @@ If you are interested in becoming a Single or Corporate Event Sponsor, please co
 
 | Level & Benefits | Diamond | Platinum | Gold | Silver |
 | ----- | :-----: | :-----: | :-----: | :-----: |
-| AppSec Events | All Global and Three Regional | All AppSec and Two Regional | Two AppSec and One Regional | One AppSec and One Regional |
+| AppSec Events | All Global AppSec's and Three Regional | All Global AppSec's and Two Regional | Two Global AppSec's and One Regional | One Global AppSec and One Regional |
 | Expo Space | 8'x6'| 8'x6'| 8'x6'| 8'x6'|
 | Conference Passes | Three  | Three  | Three  | Three  | 
 | Logo on Event website | Yes | Yes | Yes | Yes |
