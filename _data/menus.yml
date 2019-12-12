@@ -1,3 +1,7 @@
+- title: Program
+  items:
+  - title: Registration
+    url  : program/registration
 - title: Submit
   items:
   - title: Call for Papers
@@ -5,9 +9,15 @@
   - title: Call for Trainings
     url  : 'program/call-for-trainings'
 - title: Sponsor
-  items:
+  items: 
   - title: Opportunities
-    url: sponsors/
+    url  : sponsors/
+- title: Venue
+  items:
+  - title: About
+    url  : venue/about
+  - title: Lodging
+    url  : venue/lodging
 - title: About
   items:
   - title: Global AppSec
@@ -16,4 +26,3 @@
     url  : about/team
   - title: Code of Conduct
     url  : 'about/code-of-conduct'
-  
