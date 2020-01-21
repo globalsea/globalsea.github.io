@@ -1,5 +1,9 @@
 .sponsors {
+	padding: 0;
 
+	h2 {
+		margin-bottom: 16px;
+	}
 	h3 {
 		text-align: center;
 		font-size: 120%;
@@ -19,10 +23,10 @@
 			background-repeat: no-repeat;
 			background-position: center center;
 		}
-		&.Diamond a {
+		&.Sapphire a {
 			width: 300px;
 		}
-		&.Platinum a {
+		&.Ruby a {
 			width: 250px;
 		}
 		&.Gold a {
