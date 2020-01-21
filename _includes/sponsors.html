@@ -3,7 +3,7 @@
 <h2>Sponsored by</h2>
 	{% for sponsortype in site.data.sponsors %}
 		{% if sponsortype.sponsors %}
-		  <h3>{{ sponsortype.type }} sponsors</h3>
+		  <h3 class='{{ sponsortype.type }}'>{{ sponsortype.type }} sponsors</h3>
 		  <div class="{{ sponsortype.type }}">
 			{% assign sortedsponsors = sponsortype.sponsors | sort: 'name' %}
 			{% for sponsor in sortedsponsors %}

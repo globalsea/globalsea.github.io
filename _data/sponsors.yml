@@ -2,4 +2,23 @@
   sponsors:
     - logo: detectify_logo.jpg
       name: Detectify
-      url : http://detectify.com
+      url : https://detectify.com
+    - logo: security_journeylogo.png
+      name: Security Journey
+      url: https://www.securityjourney.com
+      backgroundSize: 125px
+    - logo: tala_logo.jpg
+      name: Tala Security
+      url: https://www.talasecurity.io
+    - logo: ripstech_black.png
+      name: RIPS Technologies
+      url: https://ripstech.com
+      backgroundSize: 125px
+    - logo: Secure_Code_Warrior.png
+      name: Secure Code Warrior
+      url: https://securecodewarrior.com
+- type: Lanyard
+  sponsors:
+    - logo: BCC_Risk.png
+      name: BCC Risk
+      url: https://www.edgescan.com
