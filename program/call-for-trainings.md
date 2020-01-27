@@ -2,4 +2,5 @@
 title: Call for Trainings
 ---
 
-CfT and CfP will open soon
+
+Call for Trainings is <a href="https://owasp.submittable.com/submit/157929/global-appsec-dublin-2020-cft">here</a>

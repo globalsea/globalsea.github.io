@@ -5,9 +5,9 @@
 - title: Submit
   items:
   - title: Call for Papers
-    url  : 'program/call-for-papers'
+    url  : 'https://owasp.submittable.com/submit/157930/global-appsec-dublin-2020-cfp'
   - title: Call for Trainings
-    url  : 'program/call-for-trainings'
+    url  : 'https://owasp.submittable.com/submit/157929/global-appsec-dublin-2020-cft'
 - title: Sponsor
   items: 
   - title: Opportunities
