@@ -5,6 +5,9 @@
       url: https://securecodewarrior.com
 - type: Ruby
   sponsors:
+    - logo: contrast-security.png
+      name: Contrast Security
+      url: https://www.contrastsecurity.com
     - logo: detectify_logo.jpg
       name: Detectify
       url : https://detectify.com
