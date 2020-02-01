@@ -1,3 +1,8 @@
+- type: Gold
+  sponsors:
+    - logo: Secure_Code_Warrior.png
+      name: Secure Code Warrior
+      url: https://securecodewarrior.com
 - type: Ruby
   sponsors:
     - logo: detectify_logo.jpg
@@ -14,9 +19,6 @@
       name: RIPS Technologies
       url: https://ripstech.com
       backgroundSize: 125px
-    - logo: Secure_Code_Warrior.png
-      name: Secure Code Warrior
-      url: https://securecodewarrior.com
 - type: Lanyard
   sponsors:
     - logo: BCC_Risk.png
