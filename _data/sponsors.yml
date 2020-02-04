@@ -3,7 +3,6 @@
     - logo: /assets/images/sponsors/secure-code-warrior.png
       name: Secure Code Warrior
       url: https://securecodewarrior.com
-      backgroundSize: 135px
 - type: Sapphire
   sponsors:    
     - logo: /assets/images/sponsors/synopsys.png
