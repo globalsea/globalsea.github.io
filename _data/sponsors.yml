@@ -9,6 +9,7 @@
     - logo: /assets/images/sponsors/synopsys.png
       name: Synopsys
       url: https://www.synopsys.com/
+      backgroundSize: 125px
 - type: Ruby
   sponsors:
     - logo: /assets/images/sponsors/contrast-security.png
