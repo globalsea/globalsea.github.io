@@ -4,6 +4,11 @@
       name: Secure Code Warrior
       url: https://securecodewarrior.com
       backgroundSize: 125px
+- type: Sapphire
+  sponsors:    
+    - logo: /assets/images/sponsors/synopsys.png
+      name: Synopsys
+      url: https://www.synopsys.com/company.html
 - type: Ruby
   sponsors:
     - logo: /assets/images/sponsors/contrast-security.png
