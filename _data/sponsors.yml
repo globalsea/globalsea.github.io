@@ -13,10 +13,10 @@
     - logo: /assets/images/sponsors/detectify_logo.jpg
       name: Detectify
       url : https://detectify.com
-    - logo: /assets/images/sponsors/detectify_logo.jpg
-      name: Kryptowire
-      url :  https://www.kryptowire.com/  
     - logo: /assets/images/sponsors/kryptowire.png
+      name: Kryptowire
+      url :  https://www.kryptowire.com/ 
+    - logo: /assets/images/sponsors/
       name: Security Journey
       url: https://www.securityjourney.com
       backgroundSize: 125px
