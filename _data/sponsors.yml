@@ -8,7 +8,7 @@
   sponsors:    
     - logo: /assets/images/sponsors/synopsys.png
       name: Synopsys
-      url: https://www.synopsys.com/company.html
+      url: https://www.synopsys.com/
 - type: Ruby
   sponsors:
     - logo: /assets/images/sponsors/contrast-security.png
@@ -20,7 +20,8 @@
       url : https://detectify.com
     - logo: /assets/images/sponsors/kryptowire.png
       name: Kryptowire
-      url :  https://www.kryptowire.com/ 
+      url :  https://www.kryptowire.com/
+      backgroundSize: 125px
     - logo: /assets/images/sponsors/security_journeylogo.png
       name: Security Journey
       url: https://www.securityjourney.com
