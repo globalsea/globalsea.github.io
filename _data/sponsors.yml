@@ -1,5 +1,6 @@
-- type: Gold Corporate Sponsor
-     - logo: /assets/images/sponsors/secure-code-warrior.png
+- type: Gold Corporate 
+  sponsors: 
+    - logo: /assets/images/sponsors/secure-code-warrior.png
       name: Secure Code Warrior
       url: https://securecodewarrior.com
 - type: Sapphire
