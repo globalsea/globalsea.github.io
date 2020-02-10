@@ -1,4 +1,25 @@
 conferenceteam:
+  - name: Avi Douglen
+    role: 
+    image: team_avi_320x479.png
+  - name: Emma Heffernan
+    role: 
+    image: team_emma_320x479.jpg
+  - name: Jeremy Lawrence
+    role: 
+    image: team_jeremy_320x480.jpg
+  - name: Katy Anton
+    role: 
+    image: team_katy_no-person.png
+  - name: Milan Gabor
+    role: 
+    image: team_gabor_320x480.jpg
+  - name: Ric Longenecker
+    role: 
+    image: team_ric_320x480.jpg
+  - name: Wojciech Cichon
+    role: 
+    image: team_wojciech_320x480.jpg
 staff: 
   - name: Mike McCamon 
     role: Executive Director
