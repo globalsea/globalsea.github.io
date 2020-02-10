@@ -18,7 +18,11 @@ We are looking for training courses at all levels from someone new to the applic
 <b>REVIEW PROCESS</b>
 
 <b>IMPORTANT DATES:</b>
+
 CfT Opens <b>January 27, 2020</b>
+
 CfT Closes <b>February 29, 2020</b>
+
 Notification of submitters <b>March 20, 2020</b>
+
 Program announced <b>April 2020</b>
