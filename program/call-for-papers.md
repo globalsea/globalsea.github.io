@@ -31,8 +31,11 @@ LEADERSHIP - show us how to shape and inspire both change and understanding in t
 <b>CfP IMPORTANT DATES:</b> 
 
 CfP Opens <b>January 27, 2020</b>
+
 CfP Closes <b>February 29, 2020</b>
+
 Notification to submitters <b>March 20, 2020</b>
+
 Program announced  <b>April 2020</b>
 
 <u>For submissions we will be conducting a rolling review.</u>  Submissions submitted earlier are more likely to be accepted, and sooner. 
