@@ -1,15 +1,15 @@
 conferenceteam:
-  - name: Avi Douglen
-    role: 
-    image: team_avi_320x479.png
   - name: Emma Heffernan
-    role: 
+    role: CFP Lead
     image: team_emma_320x479.jpg
+  - name: Avi Douglen
+    role: CFP co-lead
+    image: team_avi_320x479.png
   - name: Jeremy Lawrence
     role: 
     image: team_jeremy_320x480.jpg
   - name: Katy Anton
-    role: 
+    role: CFT Lead
     image: team_katy_no-person.png
   - name: Milan Gabor
     role: 
