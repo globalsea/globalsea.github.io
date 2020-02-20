@@ -11,6 +11,9 @@
       backgroundSize: 125px
 - type: Ruby
   sponsors:
+    - logo: /assets/images/sponsors/checkmarx.png
+      name: Checkmarx
+      url: https://www.checkmarx.com/
     - logo: /assets/images/sponsors/contrast-security.png
       name: Contrast Security
       url: https://www.contrastsecurity.com
