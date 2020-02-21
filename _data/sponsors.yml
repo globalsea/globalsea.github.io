@@ -4,7 +4,11 @@
       name: Secure Code Warrior
       url: https://securecodewarrior.com
 - type: Sapphire
-  sponsors:    
+  sponsors: 
+    - logo: /assets/images/sponsors/synk.png
+      name: Synk
+      url: http://www.snyk.io/
+      backgroundSize: 125px 
     - logo: /assets/images/sponsors/synopsys.png
       name: Synopsys
       url: https://www.synopsys.com/
