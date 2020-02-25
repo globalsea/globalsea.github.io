@@ -2,6 +2,8 @@
   items:
   - title: Registration
     url  : program/registration
+  - title: Keynotes
+    url  : program/keynotes
 - title: Submit
   items:
   - title: Call for Papers
