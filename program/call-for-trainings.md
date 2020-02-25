@@ -3,7 +3,7 @@ title: Call for Trainings
 ---
 
 
-Call for Trainings is <a href="https://owasp.submittable.com/submit/157929/global-appsec-dublin-2020-cft" target="_blank">here</a>
+<h3><strong>Call for Trainings is open. <a href="https://owasp.submittable.com/submit/157929/global-appsec-dublin-2020-cft" target="_blank">Submit Here</a></strong></h3>
 
 
 <b>CALL FOR TRAINERS (CfT) & SUBMISSION  </b>
@@ -26,3 +26,5 @@ CfT Closes <b>February 29, 2020</b>
 Notification of submitters <b>March 20, 2020</b>
 
 Program announced <b>April 2020</b>
+
+<h3><strong><a href="https://owasp.submittable.com/submit/157929/global-appsec-dublin-2020-cft" target="_blank">Submit Here</a></strong></h3>
