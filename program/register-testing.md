@@ -17,4 +17,4 @@ Join us for a celebration of leading application security technologies, speakers
 
 **Full agenda to be finalized before March 25th**
 
-{% include registration_form.md %}
+{% include registration_form.md primary_color="#0079a7" %}
