@@ -9,11 +9,11 @@
             "amount": 50000,
             "metadata": {
                 "type": "regular",
-                "description": "Conference includes three days of sessions, networking events, and exhibition.",
+                "display_start": "2020-02-29",
+                "display_end": "2020-04-01",
                 "inventory": "100",
                 "starting_inventory": "100",
-                "display_start": "2020-02-29",
-                "display_end": "2020-04-01"
+                "description": "<p>Conference includes two days of sessions, networking events, and exhibition.</p>"
             }
         }
     ]
