@@ -1,7 +1,7 @@
 ---
 
 title: Registration Success
-layout: register
+layout: event_noheader
 permalink: /registration-success/
 
 ---

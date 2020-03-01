@@ -8,7 +8,7 @@ permalink: /registration-error/
 ---
 
 title: Registration Error
-layout: register
+layout: event_noheader
 permalink: /registration-cancel/
 
 ---
