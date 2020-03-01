@@ -14,7 +14,9 @@ Join us for a celebration of leading application security technologies, speakers
 
 ### Logistics
 - Conference: Thursday, June 18 through Friday, June 19, 2020
-- Training Offerings: JUne 15-17 and agenda to be finalized before March 25th.
+- Training Offerings: JUne 15-17 agenda to be finalized before March 25th
 - Location: Spencer Dock, North Wall Quay, Dublin 1 D01 T1W6, Ireland
+
+**Full agenda to be finalized before March 25th**
 
 {% include registration_form.md %}
