@@ -1,7 +1,6 @@
 ---
 
 title: Global AppSec Dublin Registration
-layout: event_noheader
 
 ---
 
