@@ -2,7 +2,7 @@
 title: Call for Papers 
 ---
 
-<h3><strong>Call for Papers is open. <a href = "https://owasp.submittable.com/submit/157930/global-appsec-dublin-2020-cfp" target="_blank">Submit Here</a></strong></h3>
+<h3><strong>Call for Papers is closed.  Thank you for your interest.</strong></h3>
 <p></p>
 <b>INTRODUCTION</b>
 
