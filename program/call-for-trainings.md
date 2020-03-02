@@ -26,5 +26,3 @@ CfT Closes <b>February 29, 2020</b>
 Notification of submitters <b>March 20, 2020</b>
 
 Program announced <b>April 2020</b>
-
-<h3><strong><a href="https://owasp.submittable.com/submit/157929/global-appsec-dublin-2020-cft" target="_blank">Submit Here</a></strong></h3>
