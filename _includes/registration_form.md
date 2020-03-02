@@ -59,7 +59,7 @@
 }
 
 .ticket-button:hover {
-  background-color: #000000;
+  background-color: #000000 !important;
   color: #ffffff;
 }
 
@@ -332,7 +332,7 @@
 <script src="https://unpkg.com/vue-multiselect@2.1.0"></script>
 <link rel="stylesheet" href="https://unpkg.com/vue-multiselect@2.1.0/dist/vue-multiselect.min.css">
 <script>
-var stripe = Stripe('pk_test_u4OyMFMbz6tp9sit2bjdHRnT00bac5mrL2');
+var stripe = Stripe('pk_live_mw0B2kiXQTFkD44liAEI03oT00S5AGfSV3');
 window.addEventListener('load', function () {
   const app = new Vue({
     data: {
