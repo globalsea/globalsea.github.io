@@ -295,7 +295,7 @@
         <div class="error-text" v-if="errors.dietary_restrictions">{{ errors.dietary_restrictions[0] }}</div>
       </div>
       <div class="extra-pad">
-        <label class="checkbox-container">Agree to Terms of Purchase <sup><strong>*</strong></sup>
+        <label class="checkbox-container">Agree to Terms of Purchase & Attendance <sup><strong>*</strong></sup>
           <input type="checkbox" v-model="terms_of_purchase">
           <span class="checkmark"></span>
         </label>
@@ -316,8 +316,7 @@
         </div>
       </div>
       <div class="help-text">
-        <sup><strong>*</strong></sup> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum egestas arcu a suscipit. Nullam feugiat a urna a convallis. Donec in justo quis lacus condimentum euismod. Sed vulputate turpis mi, sed efficitur enim ornare eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis porttitor ipsum. Nunc bibendum risus orci, ac dapibus lectus gravida sed.
-      </div>
+        <sup><strong>*</strong></sup>Registrations are accepted on a full-payment, first-come, first-served basis only. Registration fees are non-refundable and non-transferable. By purchasing a registration you automatically agree to comply with the <a href="https://owasp.org/www-policy/operational/conferences-events" target"_blank">OWASP Conference and Event Attendee Policy</a> and consent to receive emails containing information regarding this specific event and any training courses for which you registered. Additionally you can elect to receive marketing emails from us by selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails. For questions or for more information, please contact <a href="mailto://events@owasp.com">events@owasp.com</a>.</div>
     </form>
   </div>
 </div>
