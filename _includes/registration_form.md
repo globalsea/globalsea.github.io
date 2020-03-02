@@ -273,7 +273,7 @@
       </div>
       <div class="extra-pad" style="display: flex">
         <div style="width: 50%; padding-right: 10px;">
-          <multi-select v-bind:options="countries" v-model="country" v-bind:searchable="false" v-bind:show-labels="false" placeholder="Country"></multi-select>
+          <multi-select v-bind:options="countries" v-model="country" v-bind:searchable="false" v-bind:show-labels="false" placeholder="Country (Required)"></multi-select>
         <div class="error-text" v-if="errors.country">{{ errors.country[0] }}</div>
         </div>
         <div style="width: 50%; padding-left: 10px;">
