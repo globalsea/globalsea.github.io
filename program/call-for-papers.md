@@ -38,5 +38,3 @@ Program announced  <b>April 2020</b>
 
 
 <u>A rolling review will be conducted on submissions.</u>  Submissions submitted earlier are more likely to be accepted, and sooner. 
-
-<h3><strong><a href = "https://owasp.submittable.com/submit/157930/global-appsec-dublin-2020-cfp" target="_blank">Submit Here</a></strong></h3>
