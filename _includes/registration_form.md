@@ -248,12 +248,12 @@
     <form v-on:submit.prevent="handleSubmit">
       <div class="pad-field">
         <input type="text" v-model="email" aria-label="Email Address"
-        placeholder="Email Address (Required)" />
+        placeholder="Email Address (required)" />
         <div class="error-text" v-if="errors.email">{{ errors.email[0] }}</div>
       </div>
       <div class="extra-pad">
         <input type="text" v-model="email_confirm" aria-label="Confirm Email Address"
-        placeholder="Confirm Email Address (Required)" />
+        placeholder="Confirm Email Address (required)" />
         <div class="error-text" v-if="errors.email_confirm">{{ errors.email_confirm[0] }}</div>
       </div>
       <div class="pad-field">
@@ -268,26 +268,26 @@
       </div>
       <div class="extra-pad">
         <input type="text" v-model="name" aria-label="Full Name"
-        placeholder="Full Name (Required)" />
+        placeholder="Full Name (required)" />
         <div class="error-text" v-if="errors.name">{{ errors.name[0] }}</div>
       </div>
       <div class="extra-pad" style="display: flex">
         <div style="width: 50%; padding-right: 10px;">
-          <multi-select v-bind:options="countries" v-model="country" v-bind:searchable="false" v-bind:show-labels="false" placeholder="Country (Required)"></multi-select>
+          <multi-select v-bind:options="countries" v-model="country" v-bind:searchable="false" v-bind:show-labels="false" placeholder="Country (required)"></multi-select>
         <div class="error-text" v-if="errors.country">{{ errors.country[0] }}</div>
         </div>
         <div style="width: 50%; padding-left: 10px;">
           <input type="text" v-model="city" aria-label="City"
-          placeholder="City (Required)" />
+          placeholder="City (required)" />
           <div class="error-text" v-if="errors.city">{{ errors.city[0] }}</div>
         </div>
       </div>
       <div class="extra-pad">
-        <multi-select v-bind:options="experienceOptions" v-model="experience" v-bind:searchable="false" v-bind:show-labels="false" placeholder="Select your experience level (Required)"></multi-select>
+        <multi-select v-bind:options="experienceOptions" v-model="experience" v-bind:searchable="false" v-bind:show-labels="false" placeholder="Select your experience level (required)"></multi-select>
         <div class="error-text" v-if="errors.experience">{{ errors.experience[0] }}</div>
       </div>
       <div class="extra-pad">
-        <multi-select v-bind:options="personaOptions" v-model="persona" v-bind:searchable="false" v-bind:show-labels="false" placeholder="Select your persona (Required)"></multi-select>
+        <multi-select v-bind:options="personaOptions" v-model="persona" v-bind:searchable="false" v-bind:show-labels="false" placeholder="Select your persona (required)"></multi-select>
         <div class="error-text" v-if="errors.persona">{{ errors.persona[0] }}</div>
       </div>
       <div class="extra-pad">
