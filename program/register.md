@@ -1,6 +1,7 @@
 ---
 
 title: Global AppSec Dublin Registration
+permalink: /register/
 
 ---
 
