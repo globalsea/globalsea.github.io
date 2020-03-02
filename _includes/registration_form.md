@@ -291,7 +291,7 @@
         <div class="error-text" v-if="errors.persona">{{ errors.persona[0] }}</div>
       </div>
       <div class="extra-pad">
-        <multi-select v-bind:options="dietaryRestrictionOptions" v-model="dietary_restrictions" v-bind:searchable="false" v-bind:multiple="true" v-bind:show-labels="false" placeholder="Select your dietary restrictions"></multi-select>
+        <multi-select v-bind:options="dietaryRestrictionOptions" v-model="dietary_restrictions" v-bind:searchable="false" v-bind:multiple="true" v-bind:show-labels="false" placeholder="Select your dietary restrictions (if any)"></multi-select>
         <div class="error-text" v-if="errors.dietary_restrictions">{{ errors.dietary_restrictions[0] }}</div>
       </div>
       <div class="extra-pad">
