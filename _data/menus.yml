@@ -1,7 +1,7 @@
 - title: Program
   items:
   - title: Registration
-    url  : program/registration
+    url  : /register/
   - title: Keynotes
     url  : program/keynotes
 - title: Submit
