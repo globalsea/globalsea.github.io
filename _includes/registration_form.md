@@ -228,7 +228,7 @@
 {% raw %}
 <div id="registration-app" class="registration-container" v-cloak>
   <div class="ticket-listing">
-    <h2 style="margin-bottom: 30px;">Tickets</h2>
+    <h2 style="margin-bottom: 30px;">Select your Tickets</h2>
     <div class="error-text" v-if="errors.product">{{ errors.product[0] }}</div>
     <div class="ticket-option" v-for="product in productListing">
       <div class="ticket-option-information">
