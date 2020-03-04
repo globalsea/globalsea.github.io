@@ -33,7 +33,8 @@
       backgroundSize: 125px
     - logo: /assets/images/sponsors/security-innovation.png
       name: Security Innovation 
-      url: https://www.securityinnovation.com/  
+      url: https://www.securityinnovation.com/ 
+      backgroundSize: 125px
     - logo: /assets/images/sponsors/security_journeylogo.png
       name: Security Journey
       url: https://www.securityjourney.com
