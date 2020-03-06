@@ -15,6 +15,15 @@
                 "starting_inventory": "100",
                 "description": "<p>Conference includes two days of sessions, networking events, and exhibition.</p>"
             }
+        },
+        {
+            "id": "sku_GrBNxvU4jNpKtr",
+            "name": "Test Ticket",
+            "amount": 5000,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>testing</p>"
+            }
         }
     ]
 }
