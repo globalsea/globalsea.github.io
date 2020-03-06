@@ -42,10 +42,15 @@
     - logo: /assets/images/sponsors/tala.png
       name: Tala Security
       url: https://www.talasecurity.io
+      backgroundSize: 125px
     - logo: /assets/images/sponsors/ripstech_black.png
       name: RIPS Technologies
       url: https://ripstech.com
       backgroundSize: 125px
+    - logo: /assets/images/sponsors/veracode.png
+      name: Veracode, Inc.
+      url: https://www.veracode.com/
+      backgroundSize: 125px      
     - logo: /assets/images/sponsors/virtru.png
       name: Virtru
       url: https://www.virtru.com/
