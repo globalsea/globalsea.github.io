@@ -381,7 +381,10 @@ window.addEventListener('load', function () {
       productListing: function () {
         let vm = this;
         let products = [];
-        _.each(this.products.products, function (product) {
+        let productListing = _.orderBy(this.products.products, function (product) {
+          return product.metadata.display_order;
+        });
+        _.each(productListing, function (product) {
           let shouldDisplay = true;
           if (product.metadata.display_start || product.metadata.display_end) {
             if (product.metadata.display_start) {
