@@ -13,7 +13,8 @@
                 "display_end": "2020-04-01",
                 "inventory": "100",
                 "starting_inventory": "100",
-                "description": "<p>Conference includes two days of sessions, networking events, and exhibition.</p>"
+                "description": "<p>Conference includes two days of sessions, networking events, and exhibition.</p>",
+                "display_order": "1"
             }
         }
     ]
