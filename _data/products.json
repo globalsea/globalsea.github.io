@@ -5,16 +5,17 @@
     "products": [
         {
             "id": "sku_GpG7xyGZNJMIE1",
-            "name": "Early Bird Conference",
+            "name": "Early Bird - Full Conference",
             "amount": 50000,
             "metadata": {
                 "type": "regular",
                 "display_start": "2020-02-29",
                 "display_end": "2020-04-01",
-                "inventory": "100",
-                "starting_inventory": "100",
-                "description": "<p>Conference includes two days of sessions, networking events, and exhibition.</p>",
-                "display_order": "1"
+                "inventory": "300",
+                "starting_inventory": "300",
+                "description": "<p>Save €150 off the Regular Price. Conference includes two days of sessions, networking events, and exhibition. (supplies are limited)</p>",
+                "display_order": "1",
+                "discountable": "True"
             }
         }
     ]
