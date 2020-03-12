@@ -2,6 +2,19 @@
 	padding: 2em 4em 7em 4em;
 }
 
+.alert-banner {
+	padding: 8px;
+	display: block;
+	width: 100%;
+	background: red;
+	color: white;
+	font-weight: bold;
+	a {
+		color: lightblue;
+		text-decoration: none;
+	}
+}
+
 header {
 	background-position: center center;
 	background-repeat: repeat-y, no-repeat;

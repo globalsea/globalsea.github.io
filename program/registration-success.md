@@ -13,8 +13,8 @@ permalink: /registration-success/
 3. Remember to arrive early the first day of the event to collect your badge.
 
 ## Event Details
-- Conference: Thursday, June 18th through Friday, June 19th, 2020
-- Training Offerings: Monday, June 15th through Wednesday, June 17th
+- Conference: Thursday, February 18th through Friday, February 19th, 2020
+- Training Offerings: Monday, February 15th through Wednesday, February 17th
 - Location: Convention Center Dublin, Spencer Dock, North Wall Quay, Dublin 1 D01 T1W6, Ireland
 
 Any lingering questions contact [events@owasp.com](mailto:events@owasp.com?subject=Global%20AppSec%20Dublin%20Registered).
