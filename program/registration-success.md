@@ -13,7 +13,7 @@ permalink: /registration-success/
 3. Remember to arrive early the first day of the event to collect your badge.
 
 ## Event Details
-- Conference: Thursday, February 18th through Friday, February 19th, 2020
+- Conference: Thursday, February 18th through Friday, February 19th, 2021
 - Training Offerings: Monday, February 15th through Wednesday, February 17th
 - Location: Convention Center Dublin, Spencer Dock, North Wall Quay, Dublin 1 D01 T1W6, Ireland
 
