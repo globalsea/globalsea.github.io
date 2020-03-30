@@ -61,3 +61,9 @@
       name: BCC Risk
       url: https://www.edgescan.com
       backgroundSize: 125px
+- type: Capture the Flag 
+  sponsors:
+    - logo: /assets/images/sponsors/security-innovation.png
+      name: Security Innovation 
+      url: https://www.securityinnovation.com/ 
+      backgroundSize: 125px
