@@ -15,6 +15,10 @@
       backgroundSize: 125px
 - type: Ruby
   sponsors:
+    - logo: /assets/images/sponsors/bsi_group.png
+      name: BSI Group
+      url: http://bsigroup.com/
+      backgroundSize: 125px  
     - logo: /assets/images/sponsors/checkmarx.png
       name: Checkmarx
       url: https://www.checkmarx.com/
