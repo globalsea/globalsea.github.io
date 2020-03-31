@@ -51,10 +51,6 @@
       name: Veracode, Inc.
       url: https://www.veracode.com/
       backgroundSize: 125px      
-    - logo: /assets/images/sponsors/virtru.png
-      name: Virtru
-      url: https://www.virtru.com/
-      backgroundSize: 125px   
 - type: Lanyard
   sponsors:
     - logo: /assets/images/sponsors/BCC_Risk.png
