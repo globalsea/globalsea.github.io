@@ -4,7 +4,7 @@ layout: default
 ---
 
 ---
-Sponsor Opportunity is Opeb. Please Read more in [AppSec Indonesia Sponsorship 2020](https://github.com/OWASP/www-chapter-jakarta/blob/master/AppSec%20Indonesia%202020%20sponsorships.pdf)<br>
+Sponsor Opportunity is Open. Please Read more in [AppSec Indonesia Sponsorship 2020](https://github.com/OWASP/www-chapter-jakarta/blob/master/AppSec%20Indonesia%202020%20sponsorships.pdf)<br>
 
 
 .<br/>
