@@ -1,25 +1,25 @@
 conferenceteam:
-  - name: Emma Heffernan
+  - name: Ade Yoseman
+    role: Conference Committee
+    image: adeyoseman.jpg
+  - name: Prashant Kv
     role: CFP Lead
-    image: team_emma_320x479.jpg
-  - name: Avi Douglen
-    role: CFP co-lead
-    image: team_avi_320x479.png
-  - name: Jeremy Lawrence
-    role: 
-    image: team_jeremy_320x480.jpg
-  - name: Katy Anton
-    role: CFT Lead
-    image: team_Katy_420x480.png
-  - name: Milan Gabor
-    role: 
-    image: team_gabor_320x480.jpg
-  - name: Ric Longenecker
-    role: 
-    image: team_ric_320x480.jpg
-  - name: Wojciech Cichon
-    role: 
-    image: team_wojciech_320x480.jpg
+    image: prashant.jpg
+  - name: Vina Panduwinata
+    role: Conference Committee
+    image: owasp_logo.png
+  - name: Prof. Dr. Hoga Saragih,ST,MT
+    role: MC
+    image: profhugo.png
+  - name: Achmad Syafaat
+    role: Conference Committee
+    image: owasp_logo.png
+  - name: Sundoko Haryo
+    role: Conference Committee
+    image: owasp_logo.png
+  - name: Indra Gunawan
+    role: Conference Committee
+    image: owasp_logo.png
 staff: 
   - name: Mike McCamon 
     role: Executive Director
