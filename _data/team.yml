@@ -10,7 +10,7 @@ conferenceteam:
     image: owasp_logo.png
   - name: Prof. Dr. Hoga Saragih,ST,MT
     role: MC
-    image: profhugo.png
+    image: profhugo.jpeg
   - name: Achmad Syafaat
     role: Conference Committee
     image: owasp_logo.png
