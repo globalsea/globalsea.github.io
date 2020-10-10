@@ -22,7 +22,7 @@ conferenceteam:
     image: owasp_logo.png
 staff: 
   - name: Mike McCamon 
-    role: Executive Director
+    role: Associate Executive Director
     image: staff_mike.jpg
   - name: Harold Blankenship
     role: Director of Technology and Projects
