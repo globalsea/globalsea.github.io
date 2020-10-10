@@ -1,8 +1,8 @@
 - title: Program
   items:
   - title: Registration
-    url  : register/
-  - title: Keynotes
+    url  : 
+  - title: Sechedule
     url  : program/keynotes
 - title: Submit
   items:
@@ -22,7 +22,7 @@
     url  : venue/lodging
 - title: About
   items:
-  - title: Global AppSec
+  - title: AppSec Indonesia & SEA
     url  : about/
   - title: Team
     url  : about/team
