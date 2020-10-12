@@ -12,7 +12,7 @@
   localprice: 10250 NIS
   price: $2400
   url: https://virtualappsecindonesia2020.sched.com/event/f6SN/creating-a-secret-room-in-the-darkweb
-- title: CyberWarOps Training: Red and Blue Team Joint Operations
+- title: Advanced Whiteboard hacking – aka hands-on  Threat Modeling
   url: https://globalappsectelaviv2019.sched.com/event/MEj7/advanced-whiteboard-hacking-aka-hands-on-threat-modeling
   trainers: Steven Wierckx (Toreon)
   duration: 6 Hours
@@ -40,10 +40,3 @@
   days: Sun
   localprice: 7050 NIS
   price: $1650
-- title: Web Application Hacking with Burp Suite and OWASP ZAP (For Women) 
-  url: https://globalappsectelaviv2019.sched.com/event/MLSU/web-application-hacking-with-burp-suite-and-owasp-zap-free-woman-only
-  trainers: Vandana Verma
-  duration: 1 Day
-  days: Tue
-  localprice: FREE
-  price: FREE
