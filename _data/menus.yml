@@ -1,8 +1,8 @@
 - title: Program
   items:
   - title: Registration
-    url  : daftar/
-  - title: Schedule
+    url  : register/
+  - title: Full Program
     url  : program/program
 - title: Submit
   items:
