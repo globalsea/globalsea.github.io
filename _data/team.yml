@@ -20,6 +20,9 @@ conferenceteam:
   - name: Indra Gunawan
     role: Conference Committee
     image: owasp_logo.png
+- name: Tamaghna Basu, GCIH,OSCP, RHCE, CEH, ECSA, Cyber Law, AI/ML
+    role: Conference Committee
+    image: owasp_logo.png
 staff: 
   - name: Mike McCamon 
     role: Associate Executive Director
