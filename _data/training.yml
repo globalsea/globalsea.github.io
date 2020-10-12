@@ -3,40 +3,40 @@
   trainers: Jay Turla (Bugcrowd)
   duration: 6 hours
   days: Sun
-  localprice:
-  price: 
+  localprice: IDR
+  price: IDR
 - title: Creating a 'Secret Room' in the DarkWeb
+  url: https://virtualappsecindonesia2020.sched.com/event/f6SN/creating-a-secret-room-in-the-darkweb
   trainers: Danny Ismarianto Ruhiyat (CIKUR)
   duration: 6 hours
   days: Sun
-  localprice: 
-  price:
-  url: https://virtualappsecindonesia2020.sched.com/event/f6SN/creating-a-secret-room-in-the-darkweb
+  localprice: IDR
+  price:IDR
 - title: CyberWarOps Training: Red and Blue Team Joint Operations
   url: https://virtualappsecindonesia2020.sched.com/event/f6PE/cyberwarops-training-red-and-blue-team-joint-operations
-  trainers: Manish Gupta (Citrix) and Yash Bharadwaj (CyberWarFare Labs)
+  trainers: Manish Gupta and Yash Bharadwaj (CyberWarFare Labs)
   duration: 6 hours
   days: Sun
-  localprice:
-  price: 
+  localprice:IDR
+  price: IDR
 - title: Kubernetes Overview and exploitation
   url: https://virtualappsecindonesia2020.sched.com/event/fATl/kubernetes-overview-and-exploitation
   trainers: Mihir Shah (Awake Security)
   duration: 6 hours
   days: Sun
-  localprice: 
-  price: 
+  localprice: IDR
+  price: IDR
 - title:  Hands on Threat Hunting workshop
   url: https://virtualappsecindonesia2020.sched.com/event/f6TP/hands-on-threat-hunting-workshop
   trainers: Manieendar Mohan and Rejah Rehim (Beagle Cyber Innovations)
   duration: 6 hours
   days: Sun
-  localprice: 
-  price: 
+  localprice: IDR
+  price: IDR
 - title:  Building Scalable Labs for Offensive and Defensive Security Scenarios
   url: https://virtualappsecindonesia2020.sched.com/event/f6QO/building-scalable-labs-for-offensive-and-defensive-security-scenarios
   trainers: Omar Santos (Cisco)
   duration: 6 hours
   days: Sun
-  localprice: 
-  price: 
+  localprice: IDR
+  price: IDR
