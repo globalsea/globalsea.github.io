@@ -22,7 +22,7 @@ conferenceteam:
     image: owasp_logo.png
   - name: Tamaghna Basu
     role: CFP Review
-    image: owasp_logo.png
+    image: cfp2.jpg
 staff: 
   - name: Mike McCamon 
     role: Associate Executive Director
