@@ -12,11 +12,11 @@
   localprice: 10250 NIS
   price: $2400
   url: https://virtualappsecindonesia2020.sched.com/event/f6SN/creating-a-secret-room-in-the-darkweb
-- title: CyberWarOps Training: Red and Blue Team Joint Operations
-  url: https://virtualappsecindonesia2020.sched.com/event/f6PE/cyberwarops-training-red-and-blue-team-joint-operations
-  trainers: Manish Gupta and Yash Bharadwaj (CyberWarFare Labs)
-  duration: 6 hours
-  days: Sun
+- title: Advanced Whiteboard hacking – aka hands-on  Threat Modeling
+  url: https://globalappsectelaviv2019.sched.com/event/MEj7/advanced-whiteboard-hacking-aka-hands-on-threat-modeling
+  trainers: Steven Wierckx (Toreon)
+  duration: 2 Days
+  days: Mon/Tue
   localprice: 7050 NIS
   price: $1650
 - title: Kubernetes Overview and exploitation
