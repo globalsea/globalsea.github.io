@@ -4,7 +4,7 @@ title: Trainings
 
 The event offers attendees one day_ intense training courses by leading cyber, internet, application security specialists from the 22 Nov, 2020 by Virtual. 
 
-To register for the trainings, go to the [registration page](/register/).
+To register for the trainings, go to the [registration page](/daftar/index).
 
 <table>
 	<thead>
