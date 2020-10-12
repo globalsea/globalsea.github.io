@@ -2,7 +2,7 @@
 title: Trainings
 ---
 
-The event offers attendees _three, two or one day_ intense training courses by leading cyber, internet, application security specialists from the 22 Nov, 2020 by Virtual. 
+The event offers attendees one day_ intense training courses by leading cyber, internet, application security specialists from the 22 Nov, 2020 by Virtual. 
 
 To register for the trainings, go to the [registration page](/registration/).
 
