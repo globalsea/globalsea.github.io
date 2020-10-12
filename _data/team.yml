@@ -21,7 +21,7 @@ conferenceteam:
     role: Conference Committee
     image: owasp_logo.png
   - name: Tamaghna Basu
-    role: Conference Committee
+    role: CFP Review
     image: owasp_logo.png
 staff: 
   - name: Mike McCamon 
