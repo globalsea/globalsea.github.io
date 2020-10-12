@@ -1,9 +1,11 @@
 - title: Program
   items:
   - title: Registration
-    url  : register/
+    url  : daftar/index
   - title: Full Program
     url  : program/program
+  - title: Training
+    url  : program/trainings
 - title: Submit
   items:
   - title: Call for Papers
