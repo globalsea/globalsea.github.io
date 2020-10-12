@@ -5,45 +5,38 @@
   days: Sun
   localprice: 10250 NIS
   price: $2400
-- title: DevSecOps MasterClass
-  trainers: Abhay Bhargav (we45)
-  duration: 3 Days
-  days: Sun/Mon/Tue
+- title: Creating a Secret Room in the DarkWeb
+  trainers: Danny Ismarianto Ruhiyat (CIKUR)
+  duration: 6 hours
+  days: Sun
   localprice: 10250 NIS
   price: $2400
-  url: https://globalappsectelaviv2019.sched.com/event/MCq1/devsecops-masterclass
-- title: Advanced Whiteboard hacking – aka hands-on  Threat Modeling
-  url: https://globalappsectelaviv2019.sched.com/event/MEj7/advanced-whiteboard-hacking-aka-hands-on-threat-modeling
-  trainers: Steven Wierckx (Toreon)
-  duration: 2 Days
-  days: Mon/Tue
+  url: https://virtualappsecindonesia2020.sched.com/event/f6SN/creating-a-secret-room-in-the-darkweb
+- title: CyberWarOps Training: Red and Blue Team Joint Operations
+  url: https://virtualappsecindonesia2020.sched.com/event/f6PE/cyberwarops-training-red-and-blue-team-joint-operations
+  trainers: Manish Gupta and Yash Bharadwaj (CyberWarFare Labs)
+  duration: 6 hours
+  days: Sun
   localprice: 7050 NIS
   price: $1650
-- title: An Introduction to Hacking Blockchain  Applications and Smart Contracts
-  url: https://globalappsectelaviv2019.sched.com/event/MCmH/an-introduction-to-hacking-blockchain-applications-and-smart-contracts
-  trainers: Mick Ayzenberg (Security Innovation)
-  duration: 2 Days
-  days: Mon/Tue
+- title: Kubernetes Overview and exploitation
+  url: https://virtualappsecindonesia2020.sched.com/event/fATl/kubernetes-overview-and-exploitation
+  trainers: Mihir Shah (Awake Security)
+  duration: 6 hours
+  days: Sun
   localprice: 7050 NIS
   price: $1650
-- title: Hands-on Secure Coding in Node.js
-  url: https://globalappsectelaviv2019.sched.com/event/MEiF/hands-on-secure-coding-in-nodejs
-  trainers: Chetan Karande
-  duration: 2 Days
-  days: Mon/Tue
+- title: Hands on Threat Hunting workshop
+  url: https://virtualappsecindonesia2020.sched.com/event/f6TP/hands-on-threat-hunting-workshop
+  trainers: Manieendar Mohan and Rejah Rehim (Beagle Cyber Innovations)
+  duration: 6 hours
+  days: Sun
   localprice: 7050 NIS
   price: $1650
-- title: Seth & Ken’s Excellent Adventures (in Code Review)
-  url: https://globalappsectelaviv2019.sched.com/event/MCul/seth-kens-excellent-adventures-in-code-review
-  trainers: Ken Johnson and Seth Law
-  duration: 2 Days
-  days: Mon/Tue
+- title: Building Scalable Labs for Offensive and Defensive Security Scenarios
+  url: https://virtualappsecindonesia2020.sched.com/event/f6QO/building-scalable-labs-for-offensive-and-defensive-security-scenarios
+  trainers: Omar Santos (Cisco)
+  duration: 6 hours
+  days: Sun
   localprice: 7050 NIS
   price: $1650
-- title: Web Application Hacking with Burp Suite and OWASP ZAP (For Women) 
-  url: https://globalappsectelaviv2019.sched.com/event/MLSU/web-application-hacking-with-burp-suite-and-owasp-zap-free-woman-only
-  trainers: Vandana Verma
-  duration: 1 Day
-  days: Tue
-  localprice: FREE
-  price: FREE
