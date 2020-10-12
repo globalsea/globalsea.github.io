@@ -15,7 +15,7 @@ To register for the trainings, go to the [registration page](/registration/).
     <tr>
     	<td><strong><a href="{{training.url}}">{{training.title}}</a></strong> with {{training.trainers}} </td>
      	<td>{{training.duration}} </td>
-    	<td>{{training.hours | replace: "/", "/<wbr>"}} </td>
+    	<td>{{training.days | replace: "/", "/<wbr>"}} </td>
     </tr>
 {% endfor %}
 	</tbody>
