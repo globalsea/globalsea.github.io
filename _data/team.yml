@@ -6,11 +6,11 @@ conferenceteam:
     role: CFP Lead
     image: prashant.jpg
   - name: Vina Panduwinata
-    role: Conference Committee
-    image: owasp_logo.png
-  - name: Prof. Dr. Hoga Saragih,ST,MT
     role: MC
-    image: profhugo.jpeg
+    image: owasp_logo.png
+  - name: Faisal Wirakusuma
+    role: MC
+    image: owasp_logo.png
   - name: Achmad Syafaat
     role: Conference Committee
     image: owasp_logo.png
