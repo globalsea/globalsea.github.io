@@ -1,66 +1,50 @@
 {% assign baseUrl = "/" %}<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta property="og:title" content="Virtual AppSec Indonesia 2020 {{page.title }}">
-  <meta property="og:url" content="https://appsec2020.owasp.or.id{{page.url}}" >
-  <meta property="og:type" content="website">
-  <meta property="og:description" content="Virtual AppSec Indonesia 2020! Join us for a celebration of leading application security technologies, speakers, prospects and community, in a unique event that will build on everything you already know to expect from an OWASP Conference.">
-  <meta property="og:image" content="https://appsec2020.owasp.or.id/assets/images/owaspindo.png">
-  <meta property="og:image:type" content="image/png">
-  <meta property="og:image:width" content="993">
-  <meta property="og:image:height" content="1219">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0079a7">
+<meta name="msapplication-TileColor" content="#0079a7">
+<meta name="theme-color" content="#ffffff">
 
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
-<link rel="manifest" href="/assets/icons/site.webmanifest">
-<link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#4090ac">
-<link rel="shortcut icon" href="/assets/icons/favicon.ico">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
-<meta name="theme-color" content="#4090ac">
-
-
-  <meta name="description" content="Virtual AppSec Indonesia 2020">
+<link type="text/css" rel="stylesheet" href="/assets/css/style.css">
   <title>{{ page.title }}</title>
-	<link href="https://fonts.googleapis.com/css?family=Exo+2|Montserrat:100,200,300,400" rel="stylesheet"> 
-  <link href="https://fonts.googleapis.com/css?family=Raleway:200,200i,400,400i,500,500i,700,700i,800,800i" rel="stylesheet">
-  <link type="text/css" rel="stylesheet" href="{{baseUrl}}assets/css/style.css?_={{ site.time | date: '%s' }}">
-  <script src="{{baseUrl}}assets/js/script.js?_={{ site.time | date: '%s' }}"></script>
-  
-</head>
+  <link href="https://fonts.googleapis.com/css?family=Brawler|Titillium+Web" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4531126-11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-4531126-11');
+</script>
 <body class="{{page.bodyclass}}">
-<div class="main {{page.additionalclass}}">
-  <section class="img" style="background-image: {{site.multiply}}, url(/assets/images/{% if page.image %}{{page.image}}{% else %}tlv-city-small.jpg{% endif %});background-position: center center, {% if page.imageposition %}{{page.imageposition}}{% else %}center center{% endif %}">
-  <header>
-    <nav>
-      <a href="#" class="burger dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">☰</a>
-      <ul class="nav navbar-nav">
-      {% for menu in site.data.menus %}
-        {% if menu.items %}
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
-              <ul class="dropdown-menu">
-              {% for item in menu.items %}
-                  <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
-              {% endfor %}
-              </ul>
-          </li>
-        {% else %}
-          <li>
-            <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
-      </ul>
-    </nav>
-    <a href="{{baseUrl}}" class="logo">
-    </a>
-  </header>
-  <div class="sectionContent">
-
-
+{% include notice.html %}
+<header style="background-image: url(/assets/images/bali.jpg);background-position: center center;background-repeat: no-repeat;">
+	<nav>
+    <a href="#" class="burger dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">☰</a>
+    <ul class="nav navbar-nav">
+    {% for menu in site.data.menus %}
+      {% if menu.items %}
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
+            <ul class="dropdown-menu">
+            {% for item in menu.items %}
+                <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
+            {% endfor %}
+            </ul>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </nav>
+	<a class="logo" href="/">
+		<h1>AppSec Indonesia 2020 - Virtual</h1>
+    <h2>by OWASP Foundation</h1>
+	</a>
