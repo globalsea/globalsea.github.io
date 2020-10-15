@@ -23,36 +23,40 @@
 <meta name="theme-color" content="#ffffff">
   <meta name="description" content="OWASP Appsec Indonesia 2020">
 <title>{{ page.title }}</title>
-	<link href="https://fonts.googleapis.com/css?family=Exo+2|Montserrat:100,200,300,400" rel="stylesheet"> 
-  <link href="https://fonts.googleapis.com/css?family=Raleway:200,200i,400,400i,500,500i,700,700i,800,800i" rel="stylesheet">
-  <link type="text/css" rel="stylesheet" href="{{baseUrl}}assets/css/style.css?_={{ site.time | date: '%s' }}">
-  <script src="{{baseUrl}}assets/js/script.js?_={{ site.time | date: '%s' }}"></script>
-  
-</head>
+	<link type="text/css" rel="stylesheet" href="/assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Brawler|Titillium+Web" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4531126-11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-4531126-11');
+</script>
 <body class="{{page.bodyclass}}">
-<div class="main {{page.additionalclass}}">
-  <section class="img" style="background-image: {{site.multiply}}, url(/assets/images/{% if page.image %}{{page.image}}{% else %}bali.jpg{% endif %});background-position: center center, {% if page.imageposition %}{{page.imageposition}}{% else %}center center{% endif %}">
-  <header>
-    <nav>
-      <a href="#" class="burger dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">☰</a>
-      <ul class="nav navbar-nav">
-      {% for menu in site.data.menus %}
-        {% if menu.items %}
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
-              <ul class="dropdown-menu">
-              {% for item in menu.items %}
-                  <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
-              {% endfor %}
-              </ul>
-          </li>
-        {% else %}
-          <li>
-            <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
-      </ul>
+{% include notice.html %}
+<header style="background-image: url(/assets/images/bali.jpg);background-position: center center;background-repeat: no-repeat;">
+	<nav>
+    <a href="#" class="burger dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">☰</a>
+    <ul class="nav navbar-nav">
+    {% for menu in site.data.menus %}
+      {% if menu.items %}
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
+            <ul class="dropdown-menu">
+            {% for item in menu.items %}
+                <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
+            {% endfor %}
+            </ul>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+	
     </nav>
     <a href="{{baseUrl}}" class="logo">
     </a>
