@@ -1,6 +1,19 @@
 {% assign baseUrl = "/" %}<!DOCTYPE html>
 <html>
 <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta property="og:title" content="Virtual AppSec Indonesia 2020 {{page.title }}">
+  <meta property="og:url" content="https://appsec2020.owasp.or.id{{page.url}}" >
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="The Virtual AppSec Indonesia 2020! Join us for a celebration of leading application security technologies, speakers, prospects and community, in a unique event that will build on everything you already know to expect from an OWASP Conference.">
+  <meta property="og:image" content="https://appsec2020.owasp.or.id/assets/images/owaspindo.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="993">
+  <meta property="og:image:height" content="1219">
+
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -8,7 +21,7 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0079a7">
 <meta name="msapplication-TileColor" content="#0079a7">
 <meta name="theme-color" content="#ffffff">
-
+  <meta name="description" content="OWASP Appsec Indonesia 2020">
 <link type="text/css" rel="stylesheet" href="/assets/css/style.css">
   <title>{{ page.title }}</title>
   <link href="https://fonts.googleapis.com/css?family=Brawler|Titillium+Web" rel="stylesheet">
@@ -44,7 +57,7 @@
     {% endfor %}
     </ul>
   </nav>
-	<a class="logo" href="/">
-		<h1>AppSec Indonesia 2020 - Virtual</h1>
-    <h2>by OWASP Foundation</h1>
-	</a>
+ <a href="{{baseUrl}}" class="logo">
+    </a>
+  </header>
+  <div class="sectionContent">
