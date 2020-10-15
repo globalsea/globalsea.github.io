@@ -22,11 +22,7 @@
 </script>
 <body class="{{page.bodyclass}}">
 {% include notice.html %}
-<body class="{{page.bodyclass}}">
-<div class="main {{page.additionalclass}}">
-  <section class="img" style="background-image: {{site.multiply}}, url(/assets/images/{% if page.image %}{{page.image}}{% else %}bali.jpg{% endif %});background-position: center center, {% if page.imageposition %}{{page.imageposition}}{% else %}center center{% endif %}">
-  <header>
-    <nav>
+<header style="background-image: url(/assets/images/bali.jpg);background-position: center center;background-repeat: no-repeat;">
 	<nav>
     <a href="#" class="burger dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">☰</a>
     <ul class="nav navbar-nav">
