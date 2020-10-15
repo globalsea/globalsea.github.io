@@ -1,6 +1,6 @@
 
 section {
-	padding: 2em;
+	padding: 2em 4em;
 	line-height: 1.5em;
 	min-height: 15em;
 	p {
@@ -31,45 +31,22 @@ section {
 		color: #fff;
 		background: $darkblue;
 	}
-
-table {
-	width: 100%;
-	margin-bottom: 1em;
-	table-layout: fixed;
-	
-	th, td {
-		padding: 0.5em;		
-	}
-	thead {
-		tr {
-			background: $darkblue;
-			color: #fff;
-		}
-		th {
-			text-align: left;
-			font-weight: bold;
-		}
-	}
-	tbody {
-		tr:nth-child(2n) {
-			background: #eee;
-		}
-	}
-
-	td::after { 
-		content: ''; 
-		display: block; 
-		width: 30px;
-		}
-	}
 }
 
-.indent {
-	padding-left: 2em;
-}
+
+
 
 @media (max-width: 500px) {
 	section {
 		padding: 1.5em 1em;
 	}
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
 }
