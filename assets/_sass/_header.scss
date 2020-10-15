@@ -1,72 +1,18 @@
-.front header {
-	padding: 2em 4em 7em 4em;
-}
-
-.alert-banner {
-	padding: 8px;
-	display: block;
-	width: 100%;
-	background: red;
-	color: white;
-	font-weight: bold;
-	a {
-		color: lightblue;
-		text-decoration: none;
-	}
+.front header .logo {
+	height: 15em;
 }
 
 header {
-	background-position: center center;
-	background-repeat: repeat-y, no-repeat;
-	background-size: cover, cover;
-	width: 100%;
-	color: #fff;
-	padding: 2em 4em 1em 4em;
-	font-size: 100%;
- 	justify-content: space-around;
-
- 	h1,h2 {
-		padding: 0;
-		margin: 0;
-	}
-	h1 {
-		font-size: 2.25em;
-		margin-bottom: 0.25em;
-		margin-top: 0.15em;
-	}
-	h2 {
-		font-size: 1.75em;
-	}
-	h3 {
-		margin-top: 1em;
-		font-size: 1.25em;
-		margin-bottom: 0.5em;
-	}
-	h4 {
-		font-size: 1.15em;
-		a {
-			color: #fff;
-			text-decoration: underline;
-		}
-	}
-	a {
-		color: #fff;
-	}
-
-	a.logo {
-		font-size: 120%;
-		background-image: url("../images/logo_negative.svg");
-		background-repeat: no-repeat;
-		background-size: auto 5em;
-		background-position: left center;
-		height: 5em;
-		margin: 0em;
-		padding-left: 5.5em;
-		display: inline-block;
-		flex-shrink: 0;
-		flex-grow: 0;
-		text-decoration: none;
-		width: 30em;	
+	position: relative;
+	.logo {
+		position: relative;
+		top: -2em; left: 2.75em;
+		width: 20em;
+		height: 10em;
+		background: url(../images/logo-tlv-white.png) top left no-repeat;
+		background-size: contain;
+		display: block;
+		z-index: 2;
 	}
 
 	nav {
@@ -74,9 +20,9 @@ header {
 		justify-content: right;
 		padding: 0.75em;
 		margin-right: 2em;
-		margin-top: 0em;
+		margin-top: 4em;
 		height: 2.5em;
-		margin-bottom: 0em;
+		margin-bottom: -6.5em;
 		position: relative;
 		z-index: 5;
 		font-size: 87.5%;
@@ -93,11 +39,11 @@ header {
 			height: 1.6em;
 			&:hover{
 				background: #fff;
-				color: $darkblue;
+				color: $medium;
 				text-decoration: none;
 			}
 			&:active {
-				background: $lightblue;
+				background: $light;
 
 			}
 		}
@@ -154,21 +100,24 @@ header {
 			}
 		}
 	}
-
 }
+
+
 @media (max-width: 500px) {
-	.front header {
-		padding: 1em 1em 7em 1em;
+	.front header .logo {
+		height: 8em;
+		width: 100%;
+		background-position: center center;
+		top: 0em;
+		left: 0em;
 	}
 
 	header {
-		padding: 1em 1em 1em 1em;
-		font-size: 80%;
-		a.logo {
-			font-size: 90%;
-		}
-		h3, h4 {
-			text-align: center;
+		.logo {
+			width: 10em;
+			height: 5em;
+			top: 1em;
+			left: 0.5em;
 		}
 		nav {
 			font-size: 100%;
@@ -216,4 +165,7 @@ header {
 			}
 		}
 	}
+
 }
+
+

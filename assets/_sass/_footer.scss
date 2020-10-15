@@ -1,15 +1,20 @@
 footer {
+	background: $medium;
+	color: #fff;
 	text-align: center;
 	padding: 1em;
 	clear: both;
-	width: 100%;
-	background: rgb(242, 245, 247);
-	color: #333;
-
-	div {
-		padding: 0.5em 0em;
+	a {
+		color: #fff;
 	}
-	div.cc {
-		font-size: 80%;
+	.coc {
+		padding: 1em;
+		a {
+			border-radius: 5px;
+			border: 2px solid #fff;
+			box-shadow: 0px 2px 5px rgba(0,0,0,0.5);
+			color: #fff;
+			padding: 0.2em 0.5em;
+		}
 	}
 }

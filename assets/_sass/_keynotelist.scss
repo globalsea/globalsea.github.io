@@ -1,53 +1,26 @@
 
 section.keynotes-front {
 	margin: 0em;
-	padding: 1em 0em 0em 0em;
-	h2 {
-		display: flex;
-		justify-content: center;
-		font-weight: bold;
-	}
+	padding: 0em;
 	ul {
 		display: flex;
 		justify-content: center;
 		margin: 0em;
 		padding: 0em;
+	}
+	a {
+		list-style-type: none !important;
+		width: 250px;
+		height: 250px;
+		background-position: center center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		flex-shrink: 0;
+		flex-grow: 0;
+		filter: grayscale(100%);
 
-		li {
-			list-style-type: none !important;
-			max-width: 250px;
-			width: 33.333%;
-			min-width: 200px;
-			height: 250px;
-			flex-shrink: 0;
-			flex-grow: 0;
-	
-			a {
-				filter: grayscale(100%);
-				position: relative;
-				background-position: center center;
-				background-size: cover;
-				background-repeat: no-repeat;
-				color: inherit;
-				text-decoration: none;
-				width: 100%;
-				height: 100%;
-				display: block;
-
-				&:hover {
-					filter: grayscale(0%);
-				}
-
-
-				h4 {
-					width: 100%;
-					position: absolute;
-					bottom: 0px;
-					text-align: center;
-					background: rgba(0,0,0,0.5);
-					font-weight: normal;
-				}
-			}
+		&:hover {
+			filter: grayscale(0%);
 		}
 	}
 }
@@ -58,7 +31,6 @@ div.keynote-full {
 	}
 	li {
 		padding-left: 210px;
-		padding-bottom:40px;
 		list-style-type: none !important;
 		clear: both;
 	}
@@ -69,26 +41,15 @@ div.keynote-full {
 		border-radius: 50%;
 		float: left;
 		background-size: cover;
-		margin-left:-240px;
-	}
-
-	p {
-		margin: 0px;
-		text-indent:20px;
-		padding:0px;
+		margin-left: -220px;
 	}
 }
 
 @media (max-width: 500px) {
 	section.keynotes-front {
-		ul {
-			display: block;
-			li {
-				width: 100%;
-				max-width: 100%;
-				height: 250px;
-				background-position: center center;
-			}
+		a {
+			width: 32%;
+		height: 150px
 		}
 	}
 	div.keynote-full {
@@ -106,6 +67,4 @@ div.keynote-full {
 		}
 	}
 }
-
-
 
