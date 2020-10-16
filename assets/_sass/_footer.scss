@@ -1,11 +1,15 @@
-section.footer {
-	padding-bottom: 1em;
-	margin-top: 0em !important;
-	padding-top: 1em !important;
+footer {
 	text-align: center;
-	border-top: none !important;
+	padding: 1em;
+	clear: both;
+	width: 100%;
+	background: rgb(242, 245, 247);
+	color: #fff;
 
-	a {
-		color: #fff;
+	div {
+		padding: 0.5em 0em;
+	}
+	div.cc {
+		font-size: 80%;
 	}
 }
