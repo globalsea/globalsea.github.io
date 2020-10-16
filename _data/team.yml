@@ -8,9 +8,9 @@ conferenceteam:
   - name: Vina Panduwinata
     role: Conference Committee
     image: owasp_logo.png
-  - name: Prof. Dr. Hoga Saragih,ST,MT
+  - name: Faisal Wirakusuma
     role: MC
-    image: profhugo.jpeg
+    image: owasp_logo.png
   - name: Achmad Syafaat
     role: Conference Committee
     image: owasp_logo.png
