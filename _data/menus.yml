@@ -6,6 +6,8 @@
     url  : program/program
   - title: Training
     url  : program/trainings
+- title  : Speakers
+  url	 : speakers/
 - title: Submit
   items:
   - title: Call for Papers
@@ -17,9 +19,7 @@
     url  : program/sponsor
 
 - title: Volunteer
-  items:
-  - title: Volunteer
-    url : 'program/volunteer'    
+  url  : 'program/volunteer'    
 - title: About
   items:
   - title: AppSec Indonesia & SEA
