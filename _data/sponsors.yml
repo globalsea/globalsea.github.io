@@ -1,4 +1,5 @@
 - type: Supporter 
+  partner:  
     - logo: /assets/images/sponsors/.png
       name: Pentester Academy
       url: https://www.pentesteracademy.com/
