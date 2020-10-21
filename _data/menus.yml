@@ -10,7 +10,9 @@
   items:
   - title: Call for Papers
     url  : program/cfp
-- title: Registration
+- title: Register
+  items:
+  - title: Registration
     url  : daftar/index
 - title: Sponsor
   items: 
