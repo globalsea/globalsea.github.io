@@ -1,7 +1,5 @@
 - title: Program
   items:
-  - title: Registration
-    url  : daftar/index
   - title: Full Program
     url  : program/program
   - title: Training
@@ -12,7 +10,8 @@
   items:
   - title: Call for Papers
     url  : program/cfp
-
+- title: Register
+    url  : daftar/index
 - title: Sponsor
   items: 
   - title: Opportunities
