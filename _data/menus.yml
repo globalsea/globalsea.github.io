@@ -14,6 +14,8 @@
   items:
   - title: Registration
     url  : daftar/index
+- title: Registration
+    url  : 'daftar/index'
 - title: CAPTURE THE FLAG
   url  : 'ctf/index'
 - title: Sponsor
