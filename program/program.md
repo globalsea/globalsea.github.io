@@ -23,7 +23,7 @@ layout: default
 <tr>
   <td align="left"> </td>
   <td align="center"></td>
-<td align="right">All Passcode: appsec2020</a></td>
+<td align="right">note - All Passcode: appsec2020 </td>
 </tr>
 <tr>
 <td align="left"><ul> Betrayal of Reputation: Trusting the Untrustable Hardware and Software with Reputation</ul><ul>OWASP Women in AppSec (WIA) - Application Of NIST Cyber Security Framework in Public Schools</ul><ul> The caveats of the unseen: Crouching exposure, Hidden Misconfiguration</ul><ul>Threat Defense: Defending the ATT&CK with TTP’s</ul><ul>teler - Protect Your WebApp</ul><ul> Web Security in Indonesia National Policy Framework</ul><ul>Closing Remarks</ul></td>
