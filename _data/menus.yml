@@ -16,6 +16,8 @@
     url  : daftar/index
 - title: CAPTURE THE FLAG
   url  : 'ctf/index'
+- title: PwnTheLabs
+  url  : 'PwnTheLabs/index'
 - title: Sponsor
   items: 
   - title: Opportunities
