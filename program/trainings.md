@@ -7,7 +7,7 @@ The event offers attendees one day_ intense training courses by leading cyber, i
 To register for the trainings, go to the [registration page](/daftar/index).
 
 ### Workshop Webinars Url
-###22 th November 2020
+### 22 th November 2020
 
 | Session        | Track           | Url  | Time 
 | ------------- |:-------------:| -----:| -----:|
